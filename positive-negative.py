@@ -5,4 +5,4 @@ if num > 0:
 elif num < 0:
     print("The Number is Negative..")
 else:
-    print("Obviously it is zero..")
+    print("Obviously it is zero..") 
