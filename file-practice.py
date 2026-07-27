@@ -1,0 +1,5 @@
+file = open("students.txt", "w")
+file.write("Kushal\n")
+file.write("Btech CSE\n")
+file.write("Semester 5\n")
+file.close()
